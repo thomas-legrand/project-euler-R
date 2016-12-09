@@ -1,1 +1,1 @@
-# project_euler
+# project-euler-R
